@@ -1,0 +1,82 @@
+{
+  "personalInfo": {
+    "name": "Your Name",
+    "birthDate": "YYYY-MM-DD",
+    "nationality": "Your Nationality",
+    "email": "your.email@example.com",
+    "phone": "Your Phone Number",
+    "address": {
+      "street": "Your Street",
+      "city": "Your City",
+      "postalCode": "Your Postal Code",
+      "country": "Your Country"
+    }
+  },
+  "professionalSummary": "Write a brief summary of your professional experience and goals here.",
+  "experience": [
+    {
+      "position": "Your Position",
+      "company": "Company Name",
+      "location": "Company Location",
+      "startDate": "Start Date",
+      "endDate": "End Date or Present",
+      "responsibilities": [
+        "Describe your key responsibility here",
+        "Add another responsibility",
+        "Add more responsibilities as needed"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Your Certification",
+      "institution": "Issuing Institution",
+      "date": "Issue Date",
+      "description": "Brief description of the certification",
+      "url": "https://certification-url.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Your Degree",
+      "institution": "Institution Name",
+      "location": "Institution Location",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "details": [
+        "Detail about your education",
+        "Another detail",
+        "More details as needed"
+      ]
+    }
+  ],
+  "technicalSkills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["List", "Your", "Skills", "Here"]
+    },
+    {
+      "category": "Frameworks & Tools",
+      "skills": ["List", "Your", "Tools", "Here"]
+    }
+  ],
+  "languages": [
+    "Language 1 (Level)",
+    "Language 2 (Level)"
+  ],
+  "contentServices": [
+    "Service 1",
+    "Service 2",
+    "Service 3"
+  ],
+  "technicalEnvironment": {
+    "Development": ["List", "Your", "Dev Tools"],
+    "Cloud": ["List", "Your", "Cloud Skills"],
+    "Other": ["Other", "Relevant", "Tools"]
+  },
+  "tools": [
+    "Tool 1",
+    "Tool 2",
+    "Tool 3"
+  ]
+} 

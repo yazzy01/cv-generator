@@ -1,0 +1,72 @@
+{
+  "personalInfo": {
+    "name": "John Doe",
+    "birthDate": "1990-01-01",
+    "nationality": "American",
+    "email": "john.doe@example.com",
+    "phone": "+1 234 567 8900",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "postalCode": "10001",
+      "country": "USA"
+    }
+  },
+  "professionalSummary": "Experienced software engineer with over 8 years of expertise in full-stack development, cloud architecture, and team leadership.",
+  "experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "Tech Corp",
+      "location": "New York, USA",
+      "startDate": "2019",
+      "endDate": "Present",
+      "responsibilities": [
+        "Led development of microservices architecture",
+        "Mentored junior developers",
+        "Implemented CI/CD pipelines"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Solutions Architect",
+      "institution": "Amazon Web Services",
+      "date": "2021",
+      "description": "Professional certification for AWS architecture",
+      "url": "https://aws.amazon.com/certification"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "institution": "University of Technology",
+      "location": "New York, USA",
+      "startDate": "2012",
+      "endDate": "2014",
+      "details": [
+        "Specialized in Artificial Intelligence",
+        "GPA: 3.9/4.0"
+      ]
+    }
+  ],
+  "technicalSkills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["JavaScript", "TypeScript", "Python", "Java"]
+    },
+    {
+      "category": "Frameworks",
+      "skills": ["React", "Node.js", "Spring Boot"]
+    }
+  ],
+  "languages": ["English (Native)", "Spanish (Intermediate)"],
+  "contentServices": [
+    "REST API Development",
+    "GraphQL",
+    "Database Design"
+  ],
+  "technicalEnvironment": {
+    "Cloud": ["AWS", "Azure", "GCP"],
+    "Tools": ["Docker", "Kubernetes", "Jenkins"]
+  }
+} 
